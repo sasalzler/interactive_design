@@ -4,3 +4,5 @@ body{background-color:#d9c0ab;font-family:georgia;color:#7b5737;text-align:left;
 footer{background-color:#c59e7d;}
 a{color:#7b5737;}
 img{border:solid;border-color:#b98c64;border-width:5px;}
+.col-resize {cursor: col-resize;}
+p{text-align:left;}

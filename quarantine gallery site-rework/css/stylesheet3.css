@@ -4,3 +4,4 @@ body{background-color:#f6f2b2;color:grey;text-align:right;font-family:times;}
 footer{background-color:#f9f6cc;color:grey;text-align:right;}
 a{color:lightgrey;}
 table{align-items:center;}
+.grab {cursor: grab;}
